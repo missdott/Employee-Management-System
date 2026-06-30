@@ -47,9 +47,9 @@ Each employee record may contain:
 
 ## 🛠️ Technologies Used
 
-- Java / C++ / Python *(update based on the project language)*
+- C++
 - Object-Oriented Programming
-- File Handling *(if implemented)*
+- Google Documents
 
 ## ⚙️ How to Run
 
