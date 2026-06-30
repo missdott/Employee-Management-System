@@ -54,6 +54,7 @@ Each employee record may contain:
 ## ⚙️ How to Run
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/missdott/Employee-Management-System.git
 ```
