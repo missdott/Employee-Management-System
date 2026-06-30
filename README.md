@@ -51,19 +51,6 @@ Each employee record may contain:
 - Object-Oriented Programming
 - File Handling *(if implemented)*
 
-## 📂 Project Structure
-Employee-Management-System/
-│
-├── src/
-│ ├── Employee
-│ ├── EmployeeManager
-│ ├── Main
-│ └── Other Classes
-│
-├── README.md
-
-*(Modify the structure depending on the actual files.)*
-
 ## ⚙️ How to Run
 
 ### 1. Clone the repository
